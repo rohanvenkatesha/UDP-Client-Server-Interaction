@@ -1,0 +1,22 @@
+[2023-12-05 12:38:01] Running test case from file: testcases/random_input_1.txt
+[Tue Dec  5 12:38:02 2023]
+Sending value: 18446744073709551615
+[Tue Dec  5 12:38:12 2023]
+Sending value: 187723572702975
+[Tue Dec  5 12:38:22 2023]
+Sending value: 4822678189205111
+[Tue Dec  5 12:38:32 2023]
+Sending value: 18364758544493064720
+[Tue Dec  5 12:38:42 2023]
+Sending value: 18838586676582
+[Tue Dec  5 12:38:52 2023]
+Sending value: 1098068808977
+[Tue Dec  5 12:39:02 2023]
+Sending value: 547616820634
+[Tue Dec  5 12:39:12 2023]
+Sending value: 244837814094590
+[Tue Dec  5 12:39:22 2023]
+Sending value: 48131928101875455
+[Tue Dec  5 12:39:32 2023]
+Sending value: 1089357896855742840
+[2023-12-05 12:39:43] Client Test case completed

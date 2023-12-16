@@ -1,0 +1,26 @@
+[2023-12-05 12:35:59] Running test case from file: testcases/hw6input.txt
+[Tue Dec  5 12:36:00 2023]
+Sending value: 28772997619311
+[Tue Dec  5 12:36:10 2023]
+Sending value: 187723572702975
+[Tue Dec  5 12:36:20 2023]
+Sending value: 17730434519136
+[Tue Dec  5 12:36:30 2023]
+Sending value: 265956517787046
+[Tue Dec  5 12:36:40 2023]
+Sending value: 18838586676582
+[Tue Dec  5 12:36:50 2023]
+Sending value: 177789161760246
+[Tue Dec  5 12:37:00 2023]
+Sending value: 188900966474565
+[Tue Dec  5 12:37:10 2023]
+Sending value: 2682143778081468
+[Tue Dec  5 12:37:20 2023]
+Sending value: 18446744073709551615
+[Tue Dec  5 12:37:30 2023]
+Sending value: 244837814094590
+[Tue Dec  5 12:37:40 2023]
+Sending value: 73588229205
+[Tue Dec  5 12:37:50 2023]
+Sending value: 280223976814164
+[2023-12-05 12:38:01] Client Test case completed
